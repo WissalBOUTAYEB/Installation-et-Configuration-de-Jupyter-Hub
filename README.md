@@ -1,1 +1,1 @@
-# Installation-et-Configuration-de-Jupyter-Hub
+Le projet consiste à déployer JupyterHub sur un cluster Kubernetes pour fournir une plateforme interactive et collaborative de calcul intensif. En intégrant Docker pour la conteneurisation, Rook Ceph pour le stockage distribué, et Kubeflow pour les workflows de machine learning, l’infrastructure vise à garantir une haute disponibilité et une grande flexibilité pour les utilisateurs impliqués dans la recherche et les projets d’apprentissage automatique.
