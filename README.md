@@ -42,13 +42,21 @@ Secure networking and resource management.
 🛠 Technologies Used
 
 Technology	Description
+
 Docker	Containerization platform for packaging applications and dependencies.
+
 Kubernetes	Orchestration system for managing containerized applications.
+
 Rook Ceph	Storage orchestrator providing distributed, resilient, and scalable storage.
+
 Kubeflow	Open-source platform for ML workflows on Kubernetes.
+
 JupyterHub	Multi-user service for Jupyter notebooks, enabling collaboration.
+
 🖥 Infrastructure Setup
+
 Virtual Machines Configuration
+
 Master Node:
 
 Role: Controls the Kubernetes cluster.
@@ -90,7 +98,6 @@ Workers:
 /var/lib/docker: 50GB (Docker storage).
 
 /var/lib/kubelet: 50GB (Kubernetes storage).
-
 
 
 🎯 Conclusion & Future Work
